@@ -47,7 +47,7 @@ npm run build
 
 ## Live Demo
 
-Visit the live demo at: [Coming soon]
+Visit the live demo at: [Kanban Board](https://gd2r.github.io/kanban-board/)
 
 ## Author
 
